@@ -1,7 +1,7 @@
-# Pytorch_toturials_3D
+# Pytorch_tutorials_3D
 a collection of notebook tutorials on pytorch for 3D deep learning
 ## NO Installation needed !
-all toturials are in avaialabe on <a href="https://colab.research.google.com/notebooks/welcome.ipynb">colab</a> and can be run directly on the cloud 
+all tutorials are in avaialabe on <a href="https://colab.research.google.com/notebooks/welcome.ipynb">colab</a> and can be run directly on the cloud 
 
 ## List of Toturials : 
 * ### Neural Mesh Differentiable renderer: <a href="./Neaural_renderer.ipynb">Toturial</a> , <a href="https://arxiv.org/abs/1711.07566">Paper</a>
